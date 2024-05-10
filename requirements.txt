@@ -1,0 +1,12 @@
+fastapi==0.73.0
+starlette==0.17.1
+pydantic
+typing-extensions==3.10.0.2
+asgiref==3.4.1
+click==8.0.1
+colorama==0.4.4
+SQLAlchemy==1.4.23
+psycopg2_binary
+SQLAlchemy_utils==0.37.8
+fastapi-jwt-auth
+Werkzeug
